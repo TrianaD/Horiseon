@@ -1,15 +1,11 @@
 # Horiseon
-Challenge Hw 1
+Module 1 Challenge 
 
-## User Story
+## Description
 
-In this Challenge, AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+In this challenge, we want to update the current code but to be optimized to follow accessibility standards and optimized for search engines. 
 
-## Instructions
-
-Work on existing code and refactor it by improving the code without changing what the function of the code is. Keep in mind the Scout Rule (leave the code cleaner than when you started) as improvements are made to it. 
+The funcition of the code should not be changed as well as following the Scout Rule (to leave the code cleaner than when you started) as changes are made to the code. 
 
 
 ## Acceptance Criteria
@@ -38,4 +34,11 @@ It is done when the following items are completed:
 
 * THEN I find a concise, descriptive title
 
+## Link to Site
 
+[Horiseon Link](https://trianad.github.io/Horiseon/)
+
+## Site View
+
+
+<img src="./assets/images/Website.png"> 
